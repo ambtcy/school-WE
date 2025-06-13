@@ -1,4 +1,4 @@
-## Examples for Schoole work experiance
+## Examples for School work experiance
 Author: A Chalkley
 
 run with:
