@@ -7,4 +7,4 @@ matplotlib==3.7.5 # Last version compatible with Python 3.8
 # Stats stuff
 scikit-learn==1.1 # from Ganymede
 imageio==2.9.0 # from ganymede
-statsmodels==0.12.2
+statsmodels==0.13.1
